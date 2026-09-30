@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Informatics student in Telkom University Surabaya who is still figuring out what I'm doing here :')
+Computer Science student in Telkom University Surabaya who is still figuring out what I'm doing here :')
 
 🔭 &nbsp;I'm currently working on **college projects and trying to survive semester 5**  
 🌱 &nbsp;I'm currently learning **Python, databases, and distributed systems**  
