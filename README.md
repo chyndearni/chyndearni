@@ -1,21 +1,21 @@
 <p align="center">
   <a href="https://github.com/chyndearni">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=634&text=Haloo%2C%20Aku%20Laura!" alt="Hey, I'm Laura!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=570&text=Hey%2C%20I'm%20Laura!" alt="Hey, I&#39;m Laura!" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=lalalalalala%20lost%20you" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=lalalalalala%20lost%20you" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-Informatics student in Telkom University Surabaya who is still figuring out what I'm doing here :')
+Informatics student who is still figuring out what I'm doing here :')
 
 🔭 &nbsp;I'm currently working on **college projects and trying to survive semester 5**  
 🌱 &nbsp;I'm currently learning **Python, databases, and distributed systems**  
 👯 &nbsp;I'm looking to collaborate on **college projects and small things I find interesting**  
-🤔 &nbsp;I'm looking for help with **understanding frontend**  
+🤔 &nbsp;I'm looking for help with **understanding backend**  
 😄 &nbsp;Pronouns: **she/her**
 
 ### 🛠️ Tech Stack
